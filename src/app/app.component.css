@@ -1,0 +1,16 @@
+*{
+  color: blueviolet;
+}
+.block{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background-color: grey;
+  justify-content: center;
+}
+.teste{
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
